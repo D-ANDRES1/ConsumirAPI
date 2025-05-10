@@ -1,0 +1,11 @@
+Informe
+* ¿Qué API(s) usaste?
+Use la API PokeAPI para hacer mi proyecto porque me intereso el hecho de que puedas buscar el Pokémon por numero y nombre, y pareció interesante
+
+* ¿Qué dificultades encontraste y cómo las resolviste?
+En primer lugar pensé que lo mas difícil seria guardar en formato json en un archivo en una ruta. Pese que tenia que crear clases con propiedades de stats, nombre, abilitys, etc. Pero al final fue más fácil porque me recordé sobre las clases anteriores de Path y File. Otra dificultad seria la de poner el nombre del Pokémon en el archivo .json  la final pude hacerlo con lo de JObject para poner el nombre del json del API
+
+* ¿Qué aprendiste con esta tarea?
+Aun me falta practicar, pero es muy útil las APIs para poder usar datos de otras aplicaciones  con diferentes lenguajes y también sobre lo asíncrono, que al principio me costaba visualizarlo aunque sea tan fácil como decir que se hacen las tareas todas al mismo tiempo a menos que tenga restricciones. Pero ahora tengo una ligera idea sobre lo de task, await y async
+* ¿Cómo te apoyaste de la AI para resolver tus dudas?
+SI, sobre todo a la hora poner el estilo y lo demás, aunque podría hacerlo mejor, pero esta clase no es para que se vea todo bonito. Y lo demás que utilice es para errores que tenia de que si lo ponías el nombre en el textbox en blanco, que no sabia como solucionarlo y como poner messagebox. Para poner advertencias o confirmaciones y para entender el async, tengo que repasar algunas cosas de esas.
